@@ -1,3 +1,6 @@
+# Note
+This is storefront of server https://github.com/alexchennz/angular-storefront-server, you will need to download, install that and keep it turned on before you use this.
+
 # Storefront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
